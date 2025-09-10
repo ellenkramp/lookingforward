@@ -9,11 +9,14 @@
   },
   "dependencies": {
     "@react-native-community/datetimepicker": "^8.4.4",
+    "@react-native-picker/picker": "^2.11.1",
     "date-fns": "^4.1.0",
     "expo": "~53.0.22",
+    "expo-sqlite": "~15.2.14",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.6",
+    "react-native-dropdown-picker": "^5.4.6",
     "zustand": "^5.0.8"
   },
   "devDependencies": {
